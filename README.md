@@ -1,4 +1,4 @@
-# Cryptocurrency Tweet Analysis and its effect on Bitcoin Deviation
+# Tweet Analysis and its effect on Bitcoin Deviation
 
 ### Datasets Used
 
